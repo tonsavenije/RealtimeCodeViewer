@@ -1,0 +1,29 @@
+{
+  "name": "realtimecodeviewer",
+  "version": "1.0.0",
+  "description": "Realtime Coder Viewer based on Asif Ahmed's Realtime Markdown Viewer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonsavenije/RealtimeCodeViewer.git"
+  },
+  "keywords": [
+    "Realtime",
+    "Code",
+    "Viewer"
+  ],
+  "author": "Ton Savenije",
+  "bugs": {
+    "url": "https://github.com/tonsavenije/RealtimeCodeViewer/issues"
+  },
+  "homepage": "https://github.com/tonsavenije/RealtimeCodeViewer#readme",
+  "devDependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "redis": "^2.4.2",
+    "share": "^0.7.40"
+  }
+}
